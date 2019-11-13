@@ -1,6 +1,6 @@
 # kotlin-mvp-retrofit-rxjava framework
 
-This is a sample android using kotlin-mvp-retrofit-rxjava.
+This is a sample android app using kotlin-mvp-retrofit-rxjava.
 
 This project displays the api data from "https://jsonplaceholder.typicode.com/" in various different tabs.
 
