@@ -20,7 +20,7 @@ androidx_card_view = 1.0.0
 
 App Screens view:
 
-<img alt="Logo" src="images/1.jpg" width="300" /> 
-<img alt="Logo" src="images/2.jpg" width="300" /> 
-<img alt="Logo" src="images/3.jpg" width="300" /> 
-<img alt="Logo" src="images/4.jpg" width="300" /> 
+<img alt="Logo" src="images/1.jpg" width="300" /> +
+<img alt="Logo" src="images/2.jpg" width="300" /> +
+<img alt="Logo" src="images/3.jpg" width="300" /> +
+<img alt="Logo" src="images/4.jpg" width="300" /> +
